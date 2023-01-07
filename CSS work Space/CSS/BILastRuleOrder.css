@@ -1,0 +1,45 @@
+/* 
+1. Last Rule Order 
+2. Background-Size
+3. Background-Position
+*/
+div {
+    height: 500px;
+    color: green;
+    /* height: 120px; */
+    
+}
+/* div {
+    height: 200px;
+    color: royalblue;
+} */
+
+.Fat-Image {
+    background: url('/Fat\ image.jpeg');
+    /* background-repeat: round; */
+    background-size: cover;
+    /* background-position: center; */
+    
+}
+
+.Slime-Image {
+    border: 10px groove blue;
+    background: url('/Slime\ image.jpeg');
+    background-repeat: repeat;
+    background-repeat: no-repeat;
+    /* /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: space; */
+    /* background-repeat: round; */
+    /* background-size: cover; */
+    /* background-position: center; */
+    /* background-position: left; */
+    /* background-position: top; */
+    background-position: 10% 20%;
+}
+
+.Image-Folder {
+    background: url('/Folder/House\ image.jpeg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,36 @@
+/* HSL
+HEV values #RRGGBB 
+123456789  (A)10 (B)11 (C)12 (D)13 (E)14 (F)15
+10 11 12 13 14 15
+#FF0000 - RED
+00FF00 - GREEN
+
+*/
+div {
+    border 10px solid black;
+}
+#Technical{
+    color: #ff0000;
+    background-color:#00ff00;
+}
+
+#Plumbing{
+    color: hsla(261, 89%, 18%, 0.856);
+    background-color: #fff;
+}
+
+#Painter{
+    color: #780;
+    background-color: #000;
+}
+
+#Tiler{
+    color: #105;
+    background-color: #ff0000;
+}
+
+#Worker{
+    color: #500;
+    background-color: #150;
+}
+

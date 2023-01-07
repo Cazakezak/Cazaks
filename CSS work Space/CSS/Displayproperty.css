@@ -1,0 +1,23 @@
+/* Default Display Property
+BlocK: Always starts a new line and take full with
+Inline: Does not start and only take up as much as content space 
+*/
+/* Horizontal Centering */
+body{
+    /* text-align: center; */
+}
+.Learning{
+    background: #787;
+    color: red;
+    /* width: 140px; */
+    margin: 20px auto;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    /* display: inline; */
+
+}
+.BlockInline{
+    background: greenyellow;
+    color: blue;
+    /* display: block; */
+}

@@ -1,0 +1,13 @@
+/* percentage values - Relative */
+
+.back {
+    width: 600px;
+    height: 600px;
+    background-color: red;
+}
+
+.front{
+    width: 50%;
+    height: 50%;
+    background-color: grey;
+}

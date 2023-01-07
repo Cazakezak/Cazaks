@@ -1,0 +1,36 @@
+/* Google font */
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    text-align:center;
+}
+.Lesson{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align:center;
+}
+.lessonone{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.A{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    font-style: oblique;
+    text-align: center;
+    color: black;
+    background-color: red;
+}
+
+.B{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+    font-style: italic;
+    text-align: left;
+    text-indent: 50px;
+    color: blue;
+    background-color: grey;
+}
+
+

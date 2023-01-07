@@ -1,0 +1,27 @@
+/* line-height
+letter-spacing 
+word-spacing
+text-transform
+text- decoration
+*/
+a{
+    font-size: 30px;
+    text-decoration: none;
+}
+h1{
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
+.DSTP {
+    line-height: 2rem;
+}
+.Word{
+    letter-spacing: 4px;
+    text-decoration: overline;
+    line-height: 2.5rem;
+}
+
+.Discipleship{
+    word-spacing: 15px;
+    text-decoration: underline;
+}

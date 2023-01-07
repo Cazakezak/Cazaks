@@ -1,0 +1,15 @@
+div{
+    height: 400px;
+    color: green;
+}
+
+.Fat-Image{
+    background: url('/Fat\ image.jpeg');
+}
+.Slime-Image {
+    background: url('/Slime\ image.jpeg');
+}
+
+.Image-Folder {
+    background: url('/Folder/House\ image.jpeg');
+}

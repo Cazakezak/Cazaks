@@ -1,0 +1,30 @@
+/* 
+Display: None
+Opacity: 0
+Visibility: Hidden
+ */
+
+ div {
+    background: gray;
+    margin: 20px;
+    color: red;
+ }
+ .None{
+    display: none;
+}
+.Opacity-1{
+    opacity: 1;
+ }
+
+ .Opacity-5 {
+     opacity: 0.45;
+ }
+
+  .Opacity-0 {
+     opacity: 0;
+  }
+
+ .Visibility{
+    visibility: hidden;
+ }
+

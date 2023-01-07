@@ -1,0 +1,17 @@
+/* Color Property */
+/* Color Background-Color */
+
+#has {
+    color: blueviolet;
+    background-color: black;
+}
+
+#will {
+    color: red;
+    background-color: gray;
+}
+
+#is{
+    color: white;
+    background-color: green;
+}

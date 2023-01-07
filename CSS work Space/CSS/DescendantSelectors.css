@@ -1,0 +1,31 @@
+/* 
+Block: Top Bottom Margin Respected
+Inline: Top Margin not Respected
+Mobile Navbar
+List-Style-Type: Property
+Descendant Selectors
+Inline-Block
+ */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: b;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul li{
+    list-style-type: none;
+}
+
+ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    background: olive;
+    color: black;
+    display: block;
+    padding: 10px 10px;
+    /* margin: 10px 10px; */
+}

@@ -1,0 +1,20 @@
+/* 
+Calc ()
+Perform math operations + - * /
+mix and match values 
+*/
+*{
+    margin: 0;
+}
+
+.ThehUB{
+    background-color: grey;
+    height: 100px;
+    color: white;
+    font-size: 4rem;
+}
+
+.AltarSound{
+    background-color: brown;
+    min-height: calc(100vh - 100px);
+}

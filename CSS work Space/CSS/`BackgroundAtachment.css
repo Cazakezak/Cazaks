@@ -1,0 +1,43 @@
+/* Background-Attachment */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div {
+    min-height:  100vh;
+    color: blue;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.Fat-Image {
+    background: url('/Fat\ image.jpeg');
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.Slime-Image {
+    border: 3px groove brown;
+    background: url('/Folder/House\ image.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.Image-Folder {
+    background: url('/Fat\ image.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}

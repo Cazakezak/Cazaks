@@ -1,0 +1,29 @@
+/* 
+Outline
+Offset 
+*/
+.clickbuttons{
+    margin: 5rem;
+}
+
+a{
+    background: #689f7f;
+    text-decoration: none;
+    padding: 1.5rem 1.5rem;
+    color: #945;
+    text-transform: uppercase;
+cursor: pointer;
+margin: 0 20px;
+}
+
+#A{
+    border: 1.2rem solid #945;
+}
+
+#B{
+    outline-width: 1.2rem;
+    outline-style:solid;
+    outline-color: #945;
+    outline-offset: 10px;
+    /* outline-offset: -10px; */
+}

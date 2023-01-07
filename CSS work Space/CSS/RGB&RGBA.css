@@ -1,0 +1,33 @@
+/* RGB RED BLUE 0-255 */ 
+/* RGBA 0-1 Opacity/transparence*/
+
+div {
+    border: 10px groove green;
+}
+#Technical {
+    color: rgb(0, 25, 20);
+    background-color: rgb(0, 0, 0);
+}
+
+#Plumbing {
+    color: rgb(35, 50, 230);
+    background-color: rgb(250, 0, 50);
+}
+#Painter {
+    color: rgb(220, 100, 20);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#Tiler {
+    color: rgb(240, 150, 200);
+    background-color: rgba(35, 50, 230, 0.40);
+}
+
+#Worker {
+    color: rgb(70, 150, 100);
+    background-color: rgba(230, 0, 40, 0.50);
+}
+
+body{
+    background-color: rgb(100, 240, 25, 0.55);
+}

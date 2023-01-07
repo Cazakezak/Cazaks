@@ -1,0 +1,19 @@
+/* DIV & SPAN */
+
+.believer {
+    color: blue;
+}
+
+.green {
+    color: green;
+    background-color: gray;
+}
+
+.white {
+    color: white;
+    background-color: red;
+}
+
+span{
+    text-transform: uppercase;
+}

@@ -1,0 +1,15 @@
+/* CSS Model - Padding */
+h1{
+    background-color: rebeccapurple;
+    padding: 30px;
+    /* padding-bottom: 50px; */
+    /* padding-left: 90px; */
+    /* padding-right: 60px; */
+}
+
+p{
+    background-color: gray;
+    padding: 50px;
+    /* padding: 40px 70px; */
+    /* padding: 45px 70px 25px 100px; */
+}

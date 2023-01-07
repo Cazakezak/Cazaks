@@ -1,0 +1,19 @@
+/* vh- height - percentage of the screen
+vw - with - percentage of the screen  */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.Table{
+    width: 50vw;
+    height: 50vh;
+    background-color: purple;
+}
+
+.Chair {
+    width: 100vw;
+    height: 100vh;
+    background-color: grey;
+}

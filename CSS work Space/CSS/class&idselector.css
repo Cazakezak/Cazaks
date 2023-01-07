@@ -1,0 +1,15 @@
+/* class and id selectors */
+.believer {
+    color: blue;
+}
+
+.son {
+    color: red;
+    background-color: gray;
+}
+#heading {
+    font-size: 70px;
+}
+.uppercase {
+    text-transform: uppercase;
+}
